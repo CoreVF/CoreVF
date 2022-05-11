@@ -1,12 +1,12 @@
-### 📠 [FAXES][website] 📠
+### 📠 [Core] 📠
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/FAXES_YT?label=Follow)](https://twitter.com/intent/follow?screen_name=FAXES_YT)
 [![GitHub followers](https://img.shields.io/github/followers/FAXES?label=Follow&style=social)](https://github.com/FAXES)
-[![CoreVFX](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://faxes.zone/discord)](https://discord.com/invite/QK9CuBbeXh)
+[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://faxes.zone/discord)](https://faxes.zone/discord)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://faxes.zone)](https://faxes.zone)
 ![](https://komarev.com/ghpvc/?username=FAXES&label=Views)
 
-*Hi, I'm Core, a Passionate FiveM Developer located in California, mainly working on Promotional Videos and Scripts. I have previously worked on FiveM Resources, Advertisments, Documents, and many more. I've been in the programming world since 2019 and have fully self taught myself from various resources online. I love to code and it's a passion turned into Busniess called ![CoreVFX] which I currently operate.*
+*Hi, I'm Core, a Passionate FiveM Developer located in California, mainly working on Promotional Videos and Scripts. I have previously worked on FiveM Resources, Advertisments, Documents, and many more. I've been in the programming world since 2019 and have fully self taught myself from various resources online. I love to code and it's a passion turned into Busniess called [business][website] which I currently operate.*
 
 *Feel free to shoot me a follow or star some repositories!*
 
