@@ -6,7 +6,7 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://discord.com/invite/QK9CuBbeXh)](https://discord.com/invite/QK9CuBbeXh)
 ![](https://komarev.com/ghpvc/?username=FAXES&label=Views)
 
-*Hi, I'm Core, a Passionate FiveM Developer located in California, mainly working on Promotional Videos and Scripts. I have previously worked on FiveM Resources, Advertisments, Documents, and many more. I've been in the programming world since 2019 and have fully self taught myself from various resources online. I love to code and it's a passion turned into Busniess called [CoreVFX][discord] which I currently operate.*
+*Hi, I'm Core, a Passionate FiveM Developer located in California, mainly working on Promotional Videos and Scripts. I have previously worked on FiveM Resources, Advertisments, Documents, and many more. I've been in the programming world since 2019 and have fully self taught myself from various resources online. I love to code and it's a passion turned into Busniess called CoreVFX which I currently operate.*
 
 *Feel free to shoot me a follow or star some repositories!*
 
