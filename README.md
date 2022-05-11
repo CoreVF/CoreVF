@@ -12,13 +12,6 @@
 
 <br />
 
-![Discord](https://raw.githubusercontent.com/FAXES/FAXES/master/light.png#gh-light-mode-only)
-![Discord](https://raw.githubusercontent.com/FAXES/FAXES/master/dark.png#gh-dark-mode-only)
-
-**[Join Discord][discord]**
-
-<br />
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8)
@@ -45,15 +38,15 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 155 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2022
  > 
-> 📦 103.6 kB Used in GitHub's Storage 
+> 📦 0 Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 76 Public Repositories 
+> 📜 1 Public Repositories 
  > 
-> 🔑 5 Private Repositories  
+> 🔑 0 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
